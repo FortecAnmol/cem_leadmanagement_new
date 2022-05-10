@@ -1,0 +1,9 @@
+[27-Oct-2020 05:22:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::__construct() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 24
+[27-Oct-2020 05:22:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::__construct() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 24
+[27-Oct-2020 05:22:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::__construct() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 24
+[27-Oct-2020 05:22:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::__construct() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 24
+[27-Oct-2020 05:22:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::__construct() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 24
+[27-Oct-2020 05:22:24 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::__construct() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 24
+[27-Oct-2020 05:22:34 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::__construct() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 24
+[29-Oct-2020 11:20:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 99
+[30-Oct-2020 06:09:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::employeesPerformance() in /home/buttlekot/public_html/leads/app/Http/Controllers/HomeController.php on line 239
